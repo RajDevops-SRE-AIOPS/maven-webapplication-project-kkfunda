@@ -47,7 +47,7 @@
 
 <header>
     <h1>🚀 Hello to KK FUNDA DEVOPS AWS Portal 🚀</h1>
-    <h3>Training | Development | Consulting</h3>
+    <h3>Training | Development | Consulting | Learning Devops</h3>
 </header>
 
 <div class="container">
