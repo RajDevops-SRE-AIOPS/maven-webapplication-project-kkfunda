@@ -75,7 +75,7 @@
     <!-- Contact Info -->
     <div class="info-card text-center">
         <img src="images/kkfunda.jpg" alt="KK FUNDA Logo" width="120" class="mb-3 rounded-circle shadow">
-        <h4>KK FUNDA</h4>
+        <h4>RAJ TECH</h4>
         <p><b>Address:</b> WAVE ROCK, Hyderabad</p>
         <p><b>Phone:</b> +91-8297329689</p>
         <p><b>Email:</b> <a href="mailto:rajtechhyd@gmail.com">rajtecheducationhyd@gmail.com</a></p>
