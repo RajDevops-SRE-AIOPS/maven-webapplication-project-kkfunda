@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <marquee><h1>🚀 Hello to RAJ TECH DEVOPS JENKINS Portal 🚀</h1></marquee>
+    <h1>🚀 Hello to RAJ TECH DEVOPS JENKINS Portal 🚀</h1>
     <h3>Training | Development | Consulting | Learning Devops</h3>
 </header>
 
