@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<marquee><title>WELCOME TO RAJ TECH Home Page</title></marquee>
+<marquee><title>WELCOME TO RAJ TECH JENKINS Home Page</title></marquee>
 <link href="images/kkfunda.jpg" rel="icon">
 <!-- Bootstrap CDN -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <marquee><h1>🚀 Hello to RAJ TECH DEVOPS AWS Portal 🚀</h1></marquee>
+    <marquee><h1>🚀 Hello to RAJ TECH DEVOPS JENKINS Portal 🚀</h1></marquee>
     <h3>Training | Development | Consulting | Learning Devops</h3>
 </header>
 
